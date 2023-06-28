@@ -7,4 +7,5 @@ Developed a bidirectional LSTM model that classifies whether a commect is toxic 
 
 
 Implemented a simple interface using Gradio
-<img width="822" alt="image" src="https://github.com/pranamya18/toxic_comment_identification/assets/49710041/8332e29a-8505-4ca3-acf8-a5b3a761cfc2">
+
+<img width="822" alt="Screenshot 2023-06-27 234503" src="https://github.com/pranamya18/toxic_comment_identification/assets/49710041/8dfacb9d-679a-4101-ab1c-590e8367aee1">
